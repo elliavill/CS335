@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="building1">Bradley</string>
+    <string name="building2">Coberly</string>
+    <string name="building3">Dixon</string>
+    <string name="building4">Rice</string>
+    <string name="building5">Young</string>
+
+    <string name="app_name">Room Statistics</string>
+
+    <string name="nextButton">Next</string>
+    <string name="submitButton">Submit</string>
+
+    <string name="room1">Room 1</string>
+    <string name="room2">Room 2</string>
+    <string name="room3">Room 3</string>
+    <string name="room4">Room 4</string>
+    <string name="room5">Room 5</string>
+
+
+</resources>
