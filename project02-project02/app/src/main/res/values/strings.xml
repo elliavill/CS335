@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">project02</string>
+    <string name="BradleyTower">Bradley Tower</string>
+    <string name="Coberly">Coberly</string>
+    <string name="DixonTower">Dixon Tower</string>
+    <string name="RiceTower">Rice Tower</string>
+    <string name="YoungTower">Young Tower</string>
+</resources>

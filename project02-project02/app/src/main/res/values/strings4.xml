@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project02</string>
+    <string name="RoomClean">Room is Clean! :)</string>
+    <string name="FailedRoomInspection">Failed Room Inspection :|</string>
+    <string name="FailedBathroomInspection">Failed Bathroom Inspection :|</string>
+    <string name="FailedBathroomRoomInspection">Failed Bathroom and Room Inspection :(</string>
+
+</resources>

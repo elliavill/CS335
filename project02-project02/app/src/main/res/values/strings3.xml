@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project02</string>
+    <string name="Room01">Room 01</string>
+    <string name="Room02">Room 02</string>
+    <string name="Room03">Room 03</string>
+    <string name="Room04">Room 04</string>
+    <string name="Room05">Room 05</string>
+
+</resources>
